@@ -1,0 +1,27 @@
+{
+    "shareClass": {
+        "founders": {
+            "numOfShares": 1000000,
+            "invested": 0,
+            "common": true
+        },
+        "preferredA": {
+            "numOfShares": 200000,
+            "invested": 900000,
+            "common": true
+        },
+        "preferredB": {
+            "numOfShares": 300000,
+            "invested": 2100000,
+            "common": true
+        },
+        "preferredC": {
+            "numOfShares": 1500000,
+            "invested": 15000000,
+            "common": true
+        }
+    },
+    "totalShares": 3000000,
+    "totalInvestment": 18000000,
+    "liquidationPreferences": false
+}
