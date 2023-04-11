@@ -1,5 +1,3 @@
-# Bright Sites Code
-
 This code was written as a node command line tool to help calculate share distributions given exit distribution and liquidation preferences.
 
 To explain and for simplicity, one shareholder is equal to one share class. Thus, the ownership distribution is:
